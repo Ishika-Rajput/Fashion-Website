@@ -14,12 +14,15 @@ Princy Rathi – 19/BCS/074
 Problem Statement: 
 Everyone is fond of fashion now a days. Whenever we go out we focus more on clothes we wear. Fashion is very important for this generation. Everyone is very conscious for their fashion sense. Fashion has the ability to change and shape lives through its personal connection to us all. We all have to wear clothes and every piece of clothing we buy represents a personal choice – it is this intrinsically human relationship between us and our fashion that makes it political. 
 So, by introducing a new system which will give you idea of all the trendy fashion and it will also give you the idea that which outfit will suit your personality. Will enable them to shop online rather than going to shops manually and will also give them a variety of options to choose between the variety of clothes.
+
 Requirements:
+
 Hardware Interface:
 1. Pentium(R) 4 CPU 2.26 GHz, 128 MB RAM .
 2. Screen resolution of at least 800 x 600 required for proper and
 complete viewing of screens. Higher resolution would not be a
 problem.
+
 Software Interfaces:
 1. Any window-based operating system (Windows 95/98/2000/XP/NT) §
 2. Sublime Text Editor
